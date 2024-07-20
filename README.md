@@ -1,4 +1,4 @@
-<img src="portal.png">
+<img src="portada.png">
 
 - 👋 Hola soy la Dra. García
 - 👀 Actualmente estoy interesada en Inteligencia Artificial
